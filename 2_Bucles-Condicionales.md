@@ -61,7 +61,7 @@ Cuando queremos realizar diferentes acciones en función del resultado de la con
 ```java
 if (condición) {
     // sentencias si es verdadera
-} if else (otra condición) {
+} else if (otra condición) {
     // sentencias si es verdadera esta otra condicion
 } else {
     // sentencias si es falsa
